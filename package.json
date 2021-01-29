@@ -26,6 +26,7 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
     "webpack-pwa-manifest": "^4.2.0"
+    "node-forge": ">=0.10.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
